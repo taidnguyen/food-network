@@ -1,4 +1,4 @@
-# Drawing Vietnam Airline Network using Networkx and Plotly
+# Drawing Cusine Ingredients Network
 
 <!-- Blog post: https://taidn.site/airline-network/
 
