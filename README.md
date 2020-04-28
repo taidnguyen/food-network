@@ -1,17 +1,21 @@
 # Drawing Cusine Ingredients Network
 
-<!-- Blog post: https://taidn.site/airline-network/
+<!-- Blog post: https://taidn.site/airline-network/ -->
 
-#### Networkx + Matplotlib
-![plt1](/fig/plt1.png)
+#### Explore Data
+![facetbar1](/fig/facet-bar-chart-1.png)
 
-![plt2](/fig/plt2.png)
+![facetbar2](/fig/facet-bar-chart-2.png)
 
-![plt3](/fig/plt3.png)
+#### Cuisine Network with Plotly
+![brazilian](/fig/brazilian.png)
 
-#### Plotly + Mapbox
-![plotly4](/fig/plotly4.png)
+![french](/fig/french.png)
 
-![plotly2](/fig/plotly2.png)
+![mexican](/fig/mexican.png)
 
-![plotly3](/fig/plotly3.png) -->
+![japanese](/fig/japanese.png)
+
+![indian](/fig/indian.png)
+
+![viet](/fig/vietnamese.png)
