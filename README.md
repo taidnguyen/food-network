@@ -1,6 +1,6 @@
 # Drawing Cusine Ingredients Network
 
-<!-- Blog post: https://taidn.site/airline-network/ -->
+Blog post: https://taidn.site/cusine-ingredient-graph-network/.
 
 #### Explore Data
 ![facetbar1](/fig/facet-bar-chart-1.png)
